@@ -42,7 +42,7 @@ This calculator includes a variety of numerical methods, categorized by their ap
 1.  **Clone the repository:**
     ```bash
     git clone https://github.com/amrohub/Numerical-Methods-Calculator.git
-    cd your-repo-name
+    cd Numerical-Methods-Calculator
     ```
 2.  **Install dependencies:**
     ```bash
