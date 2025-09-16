@@ -1,7 +1,3 @@
-Based on the list of methods you provided, here is an updated version of the `README.md` that is more comprehensive. I've expanded the **Features** section to include all the new methods, organizing them into logical categories for better readability.
-
------
-
 # Numerical Analysis Calculator
 
 A **simple yet powerful numerical analysis calculator** designed to solve complex mathematical problems. This project provides a user-friendly interface for applying a wide range of core numerical methods to find roots of equations, solve systems of linear equations, and perform optimization.
