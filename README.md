@@ -1,3 +1,6 @@
+
+<img width="750" height="250" alt="github posters2" src="https://github.com/user-attachments/assets/98e6360a-eedd-431e-a898-f69fe78cb449" />
+
 # Numerical Analysis Calculator
 
 A **simple yet powerful numerical analysis calculator** designed to solve complex mathematical problems. This project provides a user-friendly interface for applying a wide range of core numerical methods to find roots of equations, solve systems of linear equations, and perform optimization.
